@@ -1,4 +1,4 @@
-# Comando para iniciar  um aap node
+# Comandos inciar um appNodejs
 
 ☕ npm init (criar um arquivo package.json )
 🌱 npm install express --save (instalando o express)
